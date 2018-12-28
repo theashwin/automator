@@ -15,5 +15,4 @@ This project was inspired by the app IFTTT.
 ```
 
 ## Screenshots
-<img src="/screenshots/app-one.png" width="49%"/> 
-<img src="/screenshots/appp-two.png" width="49%"/> 
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
