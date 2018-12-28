@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Automator</string>
+    <string name="title_activity_onboarding">Onboarding</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_one">To get started, please signup using Google to get you up and running in no time.</string>
+    <string name="section_two">The app requires special permissions to function.</string>
+    <string name="section_three">Almost there! A beautiful world, that works for you awaits.</string>
+    <string name="nav_modules">Modules</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_profile">Profile</string>
+
+    <!--  USER -->
+    <string name="username">Ashwin Patil</string>
+    <string name="emailid">theashwinpaitl@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

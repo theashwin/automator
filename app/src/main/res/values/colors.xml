@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#488EFF</color>
+    <color name="colorPrimaryDark">#488EFF</color>
+    <color name="colorAccent">#ffd739</color>
+
+    <color name="cyan">#00BCD4</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="ind">#e0e0e0</color>
+    <color name="grey60">#40e0e0e0</color>
+    <color name="no">#00000000</color>
+    <color name="yellove">#FFA000</color>
+    <color name="red">#D32F2F</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white80">#80ffffff</color>
+
+    <color name="cardGreen">#a4c639</color>
+</resources>

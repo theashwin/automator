@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="nav_view">
+
+    <group android:id="@+id/groupone"
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_modules"
+        android:icon="@drawable/favourite"
+        android:title="@string/nav_modules" />
+    <item
+        android:id="@+id/nav_discover"
+        android:icon="@drawable/whatshot"
+        android:title="@string/nav_discover" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/account"
+        android:title="@string/nav_profile" />
+    </group>
+
+    <group android:id="@+id/grouptwo"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/help"
+            android:title="Help" />
+        <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="About" />
+        <item
+            android:id="@+id/restart"
+            android:icon="@drawable/android"
+            android:title="Restart" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+
+    </group>
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/exit"
+        android:title="Exit" />
+</menu>
