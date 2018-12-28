@@ -20,7 +20,7 @@ This project was inspired by the app IFTTT.
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg" title="Onborading Beta" width="400px" vspace="20"/>
 </p>
    
----
+___
 <p>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-three.jpg" title="Home" width="400px" hspace="20" vspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-four.jpg" title="Drawer" width="400px" vspace="20"/>
