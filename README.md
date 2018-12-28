@@ -16,5 +16,5 @@ This project was inspired by the app IFTTT.
 
 ## Screenshots
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg" title="Onborading Alpha" width="400px" hspace="20"/>
-<img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg" title="Onborading Beta" width="400px" hspace="20"/>
+<img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg" title="Onborading Beta" width="400px"/>
 <br/><br/>
