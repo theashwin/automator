@@ -15,4 +15,4 @@ This project was inspired by the app IFTTT.
 ```
 
 ## Screenshots
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
+![](/screenshots/app-one.png "Onboarding Alpha") ![](/screenshots/app-two.png  "Onboarding Beta")
