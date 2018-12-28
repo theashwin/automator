@@ -16,3 +16,8 @@ This project was inspired by the app IFTTT.
 
 ## Screenshots
 ![Onborading Alpha](https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg "Onboarding Alpha") ![Onborading Beta](https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg  "Onboarding Beta")
+
+<img align="left" src="./documentation/images/A.jpg" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="./documentation/images/B.png" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="./documentation/images/C.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<br/><br/>
