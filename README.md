@@ -1,2 +1,1 @@
-# automator
-Automator - App That Works For You
+# Automator - App That Works For You
