@@ -15,4 +15,4 @@ This project was inspired by the app IFTTT.
 ```
 
 ## Screenshots
-![](/screenshots/app-one.png "Onboarding Alpha") ![](/screenshots/app-two.png  "Onboarding Beta")
+![](https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg "Onboarding Alpha") ![](/https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg  "Onboarding Beta")
