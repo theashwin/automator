@@ -13,3 +13,7 @@ with each other in order to simplify users work. It will create a workflow that 
 functions for the user. It will also provide features for individual and device safety.
 This project was inspired by the app IFTTT.
 ```
+
+## Screenshots
+<img src="/screenshots/app-one.png" width="50%"/> 
+<img src="/screenshots/appp-two.png" width="50%"/> 
