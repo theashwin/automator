@@ -16,7 +16,7 @@ This project was inspired by the app IFTTT.
 
 ## Screenshots
 <p>
-<img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg" title="Onborading Alpha" width="400px" hspace="20"/>
+<img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg" title="Onborading Alpha" width="400px" hspace="20" vspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg" title="Onborading Beta" width="400px" vspace="20"/>
 </p>
  
@@ -29,13 +29,14 @@ This project was inspired by the app IFTTT.
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-five.jpg" width="400px" hspace="20" vspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-six.jpg" width="400px" vspace="20"/>
 </p>
- 
+  
 <p>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-seven.jpg" width="400px" hspace="20" vspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-eight.jpg" width="400px" vspace="20"/>
 </p> 
-
+  
 <p>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-nine.jpg" width="400px" hspace="20" vspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-ten.jpg" width="400px" vspace="20"/>
 </p>
+  
