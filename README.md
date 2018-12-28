@@ -15,9 +15,10 @@ This project was inspired by the app IFTTT.
 ```
 
 ## Screenshots
+<p>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-one.jpg" title="Onborading Alpha" width="400px" hspace="20"/>
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-two.jpg" title="Onborading Beta" width="400px" vspace="20"/>
-
+</p>
 ---
 
 <img align="left" src="https://raw.githubusercontent.com/theashwin/automator/master/screenshots/app-three.jpg" title="Home" width="400px" hspace="20" vspace="20"/>
